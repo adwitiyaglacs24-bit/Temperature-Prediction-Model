@@ -2,37 +2,37 @@
 ## Overview
 This project predicts temperature using environmental data like humidity and pressure, latitude, and longitude. This notebook builds and compares regression models to predict temperature.
 
-## ⚙️ Workflow
+## Workflow
 - Data Loading & Exploration
 - Handling Missing Values
 - Feature Selection
 - Model Training
 - Model Evaluation
 
-## 🤖 Models Used
+## Models Used
 - Linear Regression
 - Random Forest Regressor
 
-## 📊 Results
+## Results
 - Linear Regression MSE: 16.47
 - Random Forest MSE: 3.53
 
-## 🚀 Key Highlights
+## Key Highlights
 - Improved model performance by ~5x using Random Forest
 - Implemented full ML pipeline from preprocessing to evaluation
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
-## 📁 Files
+## Files
 - `Temperature Prediction_Test.ipynb` → main notebook
 - `humidity.csv` → dataset
 
-## 💡 Learnings
+## Learnings
 - Handling missing data
 - Model comparison
 
